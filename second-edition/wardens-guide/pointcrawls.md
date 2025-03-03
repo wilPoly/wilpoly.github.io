@@ -22,8 +22,6 @@ The following method relies heavily on the Wilderness Exploration procedures in 
 
 ### Example
 
-[![Alt text](/img/2e/pointcrawl_example.jpg "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl_example.jpg)
-
 The travel times between each point were determined as follows (assuming that the party is traveling by foot):
 - The journey between points **1** to **2** is 6 Watches:  
   - Add two Watches for the _medium_ path distance.
@@ -49,3 +47,5 @@ The travel times between each point were determined as follows (assuming that th
   - Add two Watches for the _medium_ path distance.
   - Add two Watches for traveling through the _wilderness_.
   - Add one Watch for the _tough_ forest terrain.
+
+[![Click Me!](/img/2e/pointcrawl-example-map.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)
