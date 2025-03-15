@@ -7,40 +7,40 @@ grand_parent: Second Edition
 
 # Jongleur
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> Qu'est-ce qui inspire l'âme plus que la chanson, les mots et le spectacle ? Pourquoi s'entraîner pendant des années pour maîtriser les arcanes quand on a déjà de la vraie magie en soi ?
 
-## Names
+## Noms
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
 - Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- Instrument simple (cornemuse, luth, etc.)
+- Pourpoint chanceux (+1 Armure)
+- Fronde (d6)
 
-## What happened at your final performance? Roll 1d6:
+## Que s'est-il passé lors de votre ultime représentation ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+| **1** | Malgré votre entraînement aux arts mortels, un acteur est mort et on vous a accusé. Prenez une **Rapière** légère (d6) et une fausse identité. |
+| **2** | La foule a adoré votre chanson entraînante sur un noble et ses échecs romantiques. Le noble en question, pas tellement. Prenez le **Livre de sorts** _Lire dans les pensées_ et un mandat d'arrêt. Lire dans les pensées : vous pouvez entendre les pensées superficielles des créatures qui se trouvent à proximité. _Une possession prolongée peut amener le lecteur à prendre les pensées des autres pour les siennes._ |
+| **3** | Votre première composition a laissé le public dans un état second, marmonnant à propos de créatures brillantes descendant du ciel nocturne. Plus tard, vous avez remarqué que les notes ressemblaient à des constellations stellaires. Munissez-vous d'un **Livre sur l'astronomie** et de beaucoup de questions. |
+| **4** | Vous vous êtes moqué d'un dieu farceur oublié et avez été maudit pour cela. Vous ne parlez qu'en rimes parfaites. Ironiquement, cela vous a rendu plus populaire auprès de vos pairs. Prenez un **Thésaurus** (20 po). Sans lui, vous êtes en état de _privation_. |
+| **5** | Vous avez été marqué d'une cicatrice par un accident sur scène. La foule a applaudi, pensant que cela faisait partie du numéro. Prenez une **Cotte de mailles de scène** bien usée (1 Armure), une cicatrice mémorable et une peur des applaudissements. |
+| **6** | Vos respectables talents de marionnettiste n'avaient d'égal que votre mimétisme. Vous étiez si doué que vous avez été marqué comme sorcier (au fer rouge) et banni. Prenez une **Marionnette à gaine étrange** et un **Crâne de lapin**(_insignifiant_) qui vous protège contre les charmes. |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## Quelle babiole n'avez-vous pas pu laisser derrière vous ? Lancez 1d6 :
 
 |       |                    |                                                                                                             |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+| **1** | **Fausses menottes** | Des menottes confortables et réalistes. Vous seul connaissez l'astuce pour vous en libérer. |
+| **2** | **Théâtre de poche** | Un ensemble de petites marionnettes et une scène pliante. Idéal pour les distractions rapides. |
+| **3** | **Violon fantôme** | Un violon gris foncé qui joue un air obsédant, répliqué par un jumeau invisible et lointain. |
+| **4** | **Contes tragiques** | Interdit en bonne compagnie, ce livre devient moins paillard et plus éprouvant vers la fin. Valeur **100 po**. |
+| **5** | **Masque mythos** | Un masque de plâtre qui permet de prendre les traits d'un monstre. Une fois qu'il est enlevé, ajoutez une **Fatigue**. |
+| **6** | **Verre recasse** | Une flûte à vin qui peut être cassée plusieurs fois, se reformant au bout de 24 heures. Fait un bruit très fort. |

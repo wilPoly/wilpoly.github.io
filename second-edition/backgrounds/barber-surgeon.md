@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Barber-Surgeon
+# Barbier Chirurgien
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> Entre le guérisseur et le tourmenteur, vous connaissez la fragilité de la chair mais aussi les secrets qui s'y cachent. Avec les bons outils, la vie et la mort ne sont que des mots.
 
-## Names
+## Noms
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Scie à amputation (d6)
+- Bandages (3 utilisations)
+- Sangsue (restaure 1 FOR, 3 utilisations)
+- Attirail médical taché (_insignifiant_)
 
-## How have you "improved" yourself? Roll 1d6:
+## Comment vous êtes-vous "amélioré" ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| **1** | Vous avez un **œil** de remplacement qui peut grossir les objets, agir comme un télescope et fournir une vision nocturne minimale. Vous ne pouvez porter aucun objet métallique sur la tête et la présence d'aimants puissants vous met dans un état de _privation_. |
+| **2** | Un **pied** est principalement en métal (coup de pied, d6), et vous considérez certains terrains Difficiles comme **Faciles**. Vous portez un **Bidon d'huile** (6 utilisations). Sans une application journalière, vous êtes en état de _privation_ et bruyant. |
+| **3** | L'un de vos doigts a été échangé, l'os remplacé par de l'or et du fer. Prenez un **Crochet** et un **Tournevis** qui peuvent s'attacher au bout du doigt. |
+| **4** | Les deux **oreilles** ont été améliorées chirurgicalement, triplant ainsi votre audition. Vous pouvez vous concentrer sur un son spécifique, comme une conversation, à une grande distance. Vous portez un rabat d'oreille pour vous protéger des bruits forts et soudains (sauvegarde de VOL pour éviter une paralysie temporaire). |
+| **5** | Votre **poitrine** est tapissée de sigils alchimiques, ce qui _rend votre peau plus résistante_ (1 Armure). Le port d'une autre armure métallique annule l'effet. |
+| **6** | L'un des **bras** est entièrement métallique et se détache au niveau de l'épaule. Il peut être utilisé comme une arme (d8, _encombrant_ lorsqu'il n'est pas attaché) et peut se déplacer indépendamment si vous pouvez le voir. |
 
-## What rare tool is essential to your work? Roll 1d6:
+## Quel outil rare est essentiel à votre travail ? Lancez 1d6 :
 
 |       |                    |                                                                                                                                                                   |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| **1** | **Pommade de repousse** | Fait repousser une partie du corps au cours d'une journée. 1 utilisation. |
+| **2** | **Larve-greffon** | Un petit ver qui peut fusionner des objets inanimés avec des parties du corps. 1 utilisation. |
+| **3** | **Cire à plaies** | Guérit les blessures causées par le feu ou les produits chimiques (rétablit la totalité de la FOR), mais rien d'autre. 2 utilisations. |
+| **4** | **Vif-argent** | Un stimulant. Passez en premier au combat et réussissez automatiquement toutes les sauvegardes de VOL pendant une heure. _Addictif_: Sauvegarde de FOR ou _privation_ après 24 heures sans ce produit. 4 utilisations. |
+| **5** | **Pompe à pneuma** | Poumons d'acier portables (_encombrant_). Permet la chirurgie salvatrice ou de respirer sous l'eau. |
+| **6** | **Magnétite** | Extrait les éléments dangereux du corps et agit comme une puissante force magnétique. |

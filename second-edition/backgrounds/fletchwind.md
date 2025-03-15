@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fletchwind
+# Plumevent
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> Vous frappez de loin, mais cela ne fait pas de vous un lâche. Vous êtes un musicien, le chant de la corde de votre arc n'étant rien d'autre qu'un avertissement, chantant la promesse silencieuse d'une mort rapide.
 
-## Names
+## Noms
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Arc (voir la table)
+- Couteau dentelé (d6)
+- Cuir bouilli (1 armure)
+- Pommade de cœur-racine (restaure 1d4 FOR, 1 utilisation)
 
-## How did you earn your bow? Roll 1d6:
+## Comment avez-vous gagné votre arc ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **Guerre**. Si vous êtes le premier à attaquer, votre arc gagne la propriété _explosion_ pour le premier round. |
+| **2** | **Fauconnerie**. Vous gardez un faucon [3 PP, 5 FOR, 16 DEX, 4 VOL, griffes (d6+d6), morsure (d8)]. Il ne mange que du gibier vivant. |
+| **3** | **Chasse**. Lorsque vous entreprenez l'action Ravitailler, votre capacité à obtenir des **Rations** augmente d'**un cran** (par exemple, 1d4 devient 1d6). |
+| **4** | **Tournois**. Les attaques à l'arc sont _renforcées_ si la cible est immobile. |
+| **5** | **Entraînement**. Si vous êtes le premier à attaquer, les attaques au corps à corps contre vous sont _affaiblies_ jusqu'à ce que vous subissiez des dégâts de FOR. |
+| **6** | **Reconnaissance**. Lors de l'action Voyage, votre présence diminue les chances de se perdre d'un cran (par exemple, 4 sur 6 devient 3 sur 6). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## De quel type de bois votre arc est-il fait ? Lancez 1d6 :
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **If occidental** (d6, _encombrant_). Peut être manié comme une arme contondante (d6). Bruyant. |
+| **2** | **Chêne rouvre** (d8, _encombrant_). Percute les cibles. En cas de **Dégâts critiques**, quelque chose est arraché. |
+| **3** | **Pin parasol** (d6, _encombrant_). Produit une fois par jour de la **Sève gluante**. La sève est hautement explosive. |
+| **4** | **Frêne blanc** (d6, _encombrant_). Peut être utilisé à la place d'un bouclier en combat au corps à corps (+1 Armure). |
+| **5** | **Bambou rayé** (d6). Pliable, il ne nécessite qu'un seul emplacement (mais requiert toujours les deux mains). |
+| **6** | **Orme glabre** (d6, _encombrant_). Protège le porteur contre les poisons et les toxines, tant qu'il le tient. |

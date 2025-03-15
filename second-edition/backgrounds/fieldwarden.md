@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fieldwarden
+# Garde Champêtre
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> Protecteurs de la récolte, défense contre les nuisibles, les voleurs et les bêtes. Une position de grand honneur, tant qu'elle dure : de nombreux gardiens ne vivent pas jusqu'à la fin de leur vie naturelle. Lancez une deuxième fois le dé sur la table des **Liens**.
 
-## Names
+## Noms
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
- 
-## What got the better of you? Roll 1d6:
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Brigandine (1 Armure, _encombrant_)
+- Fronde (d6)
+- Hachette (d6)
+- Répulsif (choisissez le type, 3 utilisations)
+
+## Qu'est-ce qui a eu raison de vous ? Lancez 1d6 :
 
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| **1** | Une nuée de ravageurs voraces qui a englouti récoltes et animaux. N'ayant plus rien à défendre, vous êtes parti. Prenez de l'**Extrait de graine de bourrasque** (3 utilisations). L'ingérer vous permet de sprinter à quatre fois votre vitesse normale. Ajoutez ensuite deux points de **Fatigue**. |
+| **2** | Un esprit des récoltes, irrité par une mauvaise dîme. Les incendies ont presque tout consumé, et vous avez ensuite pu récolter un sachet de **Graines de feu** (d8, _explosion_, 4 utilisations). |
+| **3** | Un démon portant des bois et aux dents proéminentes qui a failli vous tuer. Prenez un **Couteau en os** taché de sang (d6). En cas de **Dégâts critiques**, le contact avec le sang rend la prochaine attaque _améliorée_. |
+| **4** | _Le Flétrissement_, un type de pourriture de la tige venant des **Racines**. Prenez une **Culture Malade** (6 utilisations) qui fait rapidement pourrir toute plante qu'elle touche. |
+| **5** | Des loups, du moins c'est ce que vous pensiez. Vous êtes maintenant un **Loup-garou** [8 PP, 15 FOR, 14 DEX, griffes (d6+d6), morsure (d8)]. Votre VOL reste la même. Vous pouvez vous _transformer_ à volonté (une fois par jour), mais vous devez faire une sauvegarde de VOL pour reprendre forme. Toute personne survivant à une de vos attaques doit effectuer une sauvegarde de VOL pour éviter l'infection. |
+| **6** | Des voleurs de récoltes. Ils n'ont pas tous survécu, mais vous étiez en infériorité numérique. Commencez avec +d4 PP et un **Fauchon** (d8). |
 
-## What tool saved your life? Roll 1d6:
+## Quel outil vous a sauvé la vie ? Lancez 1d6 :
 
 |       |                    |                                                                                                                                               |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **Fouet de vigne sanglante** | d8 dégâts. En cas de **Dégâts critiques**, draine le sang de la cible, ce qui confère la qualité d'_explosion_ à la prochaine attaque de l'arme. |
+| **2** | **Garde-claque** | Un appareil à manivelle qui émet un grand bruit, effrayant la plupart des créatures. |
+| **3** | **Bâton solaire** | Fournit une chaleur et une lumière suffisantes pendant une heure. **Recharge**: Laisser en plein soleil pendant une journée entière. 1 utilisation. |
+| **4** | **Attache-racine** | Lorsqu'il est lancé, attache une créature de la taille d'un loup au sol pour une courte durée. |
+| **5** | **Sifflet vert** | Une petite flûte qui calme les plantes, rendant le passage dans les zones à forte végétation un peu plus facile. |
+| **6** | **Bandeau d'éternelle floraison** | Un diadème orné de fleurs qui ne se fanent jamais. En cas de **Dégâts critiques**, les fleurs se dissolvent en poussière, mais vous agissez comme si votre sauvegarde avait réussi (la perte de FOR se produit quand même). |

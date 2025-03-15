@@ -5,41 +5,41 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Marchguard
+# Garde des Marches
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> Tenu par un Serment de sang de patrouiller les frontières et protèger le royaume. Une fois prêté, le Serment ne peut être rompu. La Garde retrouve toujours les siens.
 
-## Names
+## Noms
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Lanterne
+- Bidon d'huile (6 utilisations)
+- Épée longue (d10, _encombrant_)
+- Cuir bouilli (1 armure)
 
-## Why did you take the Oath?
+## Pourquoi avez-vous prêté Serment ?
 
 |       |                                                                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+| **1** | Votre famille a une longue tradition de service et vous avez été formé dès votre plus jeune âge à la survie dans la nature. Lorsque vous entreprenez l'action Ravitailler, votre rendement augmente d'un pas (par exemple, 1d4 > 1d6). |
+| **2** | En tant que forçat, le Serment était simplement un moyen d'éviter la punition. Prenez un jeu de **Crochets** et la **Clé** (_insignifiant_) d'une planque. |
+| **3** | De naissance noble, vous vous êtes engagé pour échapper aux problèmes familiaux. Prenez une **Bâche en feutre d'oie** (pour deux personnes) que vous avez volée avant de quitter la maison. |
+| **4** | Lorsque votre famille a tout perdu, vous avez prêté Serment pour ne pas devenir un fardeau. Prenez des **Rations** supplémentaires (3 utilisations) et une paire de **Couteaux de lancer** (d6). |
+| **5** | Un membre de la **Garde des Marches** vous a sauvé la vie et vous avez été inspiré de rejoindre ses rangs. Prenez un **Collet** et un **Carnet de croquis** rempli de dessins détaillés. |
+| **6** | Vous aviez touché le fond et avez décidé que votre vie avait besoin d'un peu d'orientation. Vous n'êtes toujours pas certain d'avoir fait le bon choix. Prenez un **Manteau en toile huilée** et du **Papier de cartographie**. |
 
-## What do you carry as proof of your Oath?
+## Que portez-vous comme preuve de votre Serment ?
 
 |       |                    |                                                                                                                                                                          |
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+| **1** | **Broche impressionnante** | Un insigne d'honneur en métal de la Garde. Il peut ouvrir des portes mais laisse des traces. _Insignifiant_. |
+| **2** | **Boussole de Serment** | Ne pointe pas vers le Nord, mais vers le membre de la Garde le plus proche. Cela vous permet également de savoir quand il ou elle se rapproche. |
+| **3** | **Pierres d'attraction** | Deux pierres noir de jais. Lorsqu'elles sont séparées, les pierres rouleront toujours l'une vers l'autre. |
+| **4** | **Fiole de feu** | Très alcoolisé, mais étrangement délicieux. Lorsqu'elle est lancée, elle crée un mur de flammes de 3 mètres de haut qui s'éteint au bout de quelques minutes. 1 utilisation. |
+| **5** | **Anneau de douleur** | Touchez une créature blessée pour lui transférer ses blessures. (Échangez sa FOR perdue avec la vôtre.) **Recharge**: Portez l'anneau lorsque vous êtes en parfaite santé. Vous perdrez 1 FOR de façon permanente. _Insignifiant_. |
+| **6** | **Malheur des braconniers** | Flèches fortement parfumées (3 utilisations). L'odeur est suffisamment puissante pour permettre de pister facilement. |

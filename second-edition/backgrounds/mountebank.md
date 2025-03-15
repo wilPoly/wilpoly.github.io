@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Mountebank
+# Charlatan
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> L'intelligence est votre arme la plus tranchante, la façade votre bouclier le plus solide. Mais lorsque vous perdez, vous perdez désastreusement.
 
-## Names
+## Noms
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Charrette (+4 emplacements, _encombrant_ lorsqu'elle est tirée)
+- Cartes à jouer truquées
+- Chapeau fantaisie (_insignifiant_)
+- Canne-épée (d6)
 
-## How was your fraud exposed? Roll 1d6:
+## Comment votre tromperie a-t-elle été révélée ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice.Long-term possession can cause the reader to mistake the thoughts of others as their own. |
+| **1** | Vos "patients" ne cessaient de rapporter des guérisons miraculeuses, malgré votre manque d'entraînement. Commencez avec des **Bandages** (3 utilisations) et le chic pour la guérison. |
+| **2** | Après avoir séduit un⋅e riche client⋅e, sa famille a engagé un gang criminel pour vous récupérer. Vous vous êtes enfui et devez faire profil bas. Commencez avec de la **Crème de Beauté**, 2 utilisations. Appliquez-la pour avoir une apparence irrésistiblement belle pendant les 12 prochaines heures. |
+| **3** | Vous étiez un colporteur de fausses prophéties, mais quand l'une d'entre elles s'est avérée exacte, cela a attiré une attention non désirée. Lancez un dé sur la table des **Présages**, mais gardez le résultat pour vous. Commencez avec un **Couteau** dissimulable (d6, _insignifiant_). |
+| **4** | Votre dernière acrobatie a détruit un artefact d'une valeur inestimable et blessé une douzaine de passants. Commencez avec un **Uniforme de capitaine** (_insignifiant_), une **Épée de cérémonie** (inoffensive, 60 po) et un **Bouquet de fleurs**. |
+| **5** | Vous avez été maudit par un sorcier local pour avoir trompé d'innocents villageois. La magie agit de façon imprévisible entre vos mains (_sauvegarde de VOL pour éviter un désastre_). Si vous êtes la cible de magie, il en va de même pour son détenteur. |
+| **6** | Vos "séances de spiritisme" avec les morts n'étaient en fait qu'une ruse impliquant un livre de sorts d'Illusion auditive habilement caché. Inévitablement, un client a découvert votre secret. Commencez avec le **Livre de sorts** et un paquet de foulards. Illusion auditive : Vous créez des sons illusoires qui semblent provenir d'une direction de votre choix. Produit des sons aléatoires et parfois inopportuns tout au long de la journée. |
 
-## What keepsake could always identify you? Roll 1d6:
+## Quel memento pourrait toujours vous identifier ? Lancez 1d6 :
 
 |       |                       |                                                                                                                                                                                  |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+| **1** | **Armoiries royales** | Membre de la royauté, vous avez choisi une vie différente. L'écu vous permet d'accéder aux lieux, mais aussi d'alerter votre famille de vos allées et venues. _Insignifiant_. |
+| **2** | **Huile miracle** | Une concoction malodorante et glissante. 2 utilisations. |
+| **3** | **Savon de chirurgien** | Un bloc de soude et de cendres qui rend la peau temporairement transparente, révélant l'anatomie intérieure. 4 utilisations. |
+| **4** | **Poudre de chèvre** | Dérivé du placenta d'un chevreau. Guérit temporairement toute affliction, mais les symptômes réapparaissent dans les heures qui suivent. |
+| **5** | **Saphir maudit** | D'une valeur de **200 po**, il revient perceptiblement dans votre poche peu de temps après que vous l'ayez dépensé. Vous n'arrivez pas à vous en débarrasser. |
+| **6** | **Tatouage alchimique** | Un chien, un chat ou un oiseau qui peut quitter votre corps à la demande. La créature suit vos ordres au mieux de ses capacités et peut vous transmettre ses blessures (_comme la perte de FOR_). _Insignifiant_. |

@@ -5,43 +5,43 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Foundling
+# Enfant Trouvé
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
- 
-## Names
+> Une curieuse tache de naissance, une odeur étrange : d'une manière ou d'une autre, le soupçon de _l'ailleurs_ persiste. Où que vous soyez, vous avez du mal à vous intégrer. Lancez sur la table des **Présages** (même si vous n'êtes pas le plus jeune joueur), mais ne divulguez pas les résultats pour l'instant.
+
+## Noms
 
 Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Pochon de sel
+- Amulette de famille (_insignifiant_, brille en présence de magie)
+- Fronde (d6)
+- Poignard (d6)
 
-## Who took you in? Roll 1d6:
+## Qui vous a recueilli ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+| **1** | Un vieux chasseur. Vous étiez tous les deux très heureux, jusqu'à ce que tout s'arrête. Prenez un **Arc long usé** (d8, _encombrant_) et un **pourpoint en cuir** (1 Armure). |
+| **2** | Un apothicaire rabougri, qui vous a enseigné les arts de la guérison tout en gardant un détachement clinique. Prenez un **Onguent de guérison** (restaure d4 FOR, 1 utilisation). |
+| **3** | Un druide, qui vous a appris le langage des arbres. Au moment venu, vous n'avez emporté qu'un **Bâton noueux** (d8) et avez promis que vous reviendriez un jour. |
+| **4** | Un forgeron bourru d'une ville fluviale endormie. Vous avez toujours été tenu à l'écart. Aujourd'hui, la forge est froide et vous êtes passé à autre chose. Prenez un **Tablier de forgeron** (_insignifiant_) et une **Cotte de mailles rapiécée** (2 Armure, _encombrant_). |
+| **5** | Une troupe d'artistes itinérants. Pendant un certain temps, ils ont été comme une famille pour vous. Un jour, vous vous êtes réveillé et ils avaient disparu sans explication. Prenez un **Livre d'histoires**, une **dague** (d6) et quelques questions brûlantes. |
+| **6** | Les moines d'un monastère isolé dans la forêt. Quand leurs règles sont devenues trop strictes, vous vous êtes éclipsé. Prenez une **Aube de moine** (chaud, _insignifiant_) et un **Livre de sorts** de _Contrôler les plantes_. Contrôler les plantes : Les plantes et les arbres avoisinants vous obéissent et acquièrent la capacité de se déplacer à un rythme lent. _Des feuilles poussent le long du dos et une légère odeur de pourriture s'en dégage._ |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## Qu'est-ce qui tient les mauvaises nouvelles à distance ? Lancez 1d6 :
 
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+| **1** | **Herbe à pipe** | Votre porte-bonheur. Les conversations ont tendance à se dérouler plus facilement après avoir fumé. 6 utilisations. |
+| **2** | **Jarre puante** | Briser cette jarre libère une odeur si nauséabonde que tous ceux qui se trouvent à proximité doivent effectuer une sauvegarde de FOR ou vomir immédiatement. 1 utilisation. |
+| **3** | **Ver de lierre** | Un ver vert souvent confondu avec une mauvaise herbe. Avalé en entier, il absorbe les toxines ou les pourritures présentes dans le corps avant de ressortir par la voie habituelle. |
+| **4** | **Pierre de rêve** | Une pierre bleue et lisse qui aide à se souvenir plus clairement des rêves. Un usage excessif peut entraîner une dépendance aux rêves. |
+| **5** | **Tige de noyade** | Un bâton de bois de la taille d'un doigt qui double de taille chaque fois qu'il est entièrement immergé dans l'eau. Il ne rétrécit pas. |
+| **6** | **Patte de lapin** | Vous la portiez quand on vous a trouvé. Ceux qui vous ont recueilli disent que c'est la patte de celle qui vous a laissée et qu'elle vous protège de la magie des sorcières. _Insignifiant_. |

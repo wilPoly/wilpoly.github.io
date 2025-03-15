@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Hexenbane
+# Conjureur
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> Vous n'êtes qu'un simple doigt de la main infaillible de la justice. Vous allez là où d'autres craignent de mettre les pieds, inflexible et inébranlable.
 
-## Names
+## Noms
 
-Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
+Perceval, Felix, Iseult, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Vêtements de l'Ordre (_insignifiant_)
+- Teintures bénies
+- Couteau d'argent (1d6)
+- Arbalète (1d8, _encombrant_)
 
-## To which order do you belong? Roll 1d6:
+## À quel ordre appartenez-vous ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **1** | **Ordre de la Croisée des Chemins**. Prenez un **Leyfinder de poche**. Il indique les lignes telluriques à proximité et d'autres sources de pouvoir arcanique. Si vous le perdez, la punition est la mort. |
+| **2** | **Ordre de la Saignante Étoile**. Prenez une **Masse en Fer d'Étoile** (1d8). Elle brille faiblement dans l'obscurité et devient brûlante en présence de sorcellerie. |
+| **3** | **Ordre du Sigil de Verre**. Prenez une épée courte (1d8) et une cotte de mailles (2 Armure, _encombrant_). Vous avez des contacts dans la plupart des bourgs (les plus ruraux, mieux c'est) prêts à fournir de l'aide, de la nourriture ou même des armes. |
+| **4** | **Ordre de l'Œil Vide**. Prenez un **Éclat de Verre du Vide**. Regardez à travers pour voir des traces invisibles, des créatures et d'autres effets magiques. Vous perdez l'usage de votre œil pendant une heure (vous êtes en état de _privation_). |
+| **5** | **Ordre de Canaas**. Une fois par jour, vous pouvez vous transformer en loup. Prenez une **Chaîne de Vif-argent**. Sans elle, vous ne pouvez pas reprendre forme. |
+| **6** | **Ordre du Voile Silencieux**. Prenez une **Pierre d'Extinction** (2 utilisations) enveloppée dans une toile de jute. Elle éteint toute flamme proche une fois exposée à l'air. |
 
-## What was your vow? Roll 1d6:
+## Quel était votre vœu ? Lancez 1d6 :
 
 |       |                                                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+| **1** | **Honnêteté**. Choisissez un **type d'arme** (contondante, blanche, etc.). Les attaques de ce type contre vous sont _affaiblies_. Si vous ne respectez pas votre vœu, vous perdez 1d4 VOL. |
+| **2** | **Pauvreté**. Vous portez le **Livre de sorts** _Désassembler_. Vous êtes le seul à pouvoir l'utiliser. Si votre vœu est brisé, il explose (d12 dégâts FOR). Désassembler : N'importe quelle partie de votre corps peut être détachée et rattachée à volonté, sans douleur ni dommage. Vous pouvez toujours les contrôler. _Régénère les pages déchirées ou abîmées._ |
+| **3** | **Altruisme**. Vous êtes immunisé contre les **effets magiques sur l'esprit**, tels que le _charme_, la _haine_, la _frénésie_, etc. Si vous rompez ce vœu, vous perdez d6 VOL. |
+| **4** | **Miséricorde**. Choisissez un **type d'arme** (contondante, blanche, etc.). Les attaques avec cette arme sont _renforcées_. Si votre vœu est rompu, vous ne pourrez plus jamais utiliser ce type d'arme. |
+| **5** | **Charité**. Une fois par jour, vous pouvez vous débarrasser d'une **Fatigue**. Si votre vœu est rompu, vous perdez définitivement un emplacement d'inventaire. |
+| **6** | **Vaillance**. La première fois que vous infligez des **Dégâts critiques**, vous recevez +d4 PP, qui reviennent à la limite précédente à la fin du combat. Si votre vœu est rompu, vous mourrez. |

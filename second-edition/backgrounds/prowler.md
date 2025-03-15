@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Prowler
+# Rôdeur
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> Vous êtes un spectre dans la nuit, une ombre fugace qui passe à côté de sa proie, invisible. Chaque meurtre est un test de sournoiserie et de détermination animale, un combat entre la vie et la mort. Vous savez qu'un jour vous perdrez. Vous attendez cela avec impatience.
 
-## Names
+## Noms
 
 Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Bâche
+- Cuir bouilli (1 armure)
+- Épée courte (d6)
+- Piège à ressort (4 dégâts de FOR)
 
-## What did you last hunt? Roll 1d6:
+## Qu'avez-vous traqué en dernier ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                  |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                        |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).  |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                  |                                                               |
+| **1** | Une _fausse luciole_ qui appâte les porteurs d'eau avec son leurre lumineux. Prenez un **Membre alchimique** (d8, _insignifiant_ lorsqu'il est porté) pour remplacer celui qu'elle a arraché et un **Bidon d'huile** (6 utilisations). Le membre est immunisé contre la chaleur et le poison. Il doit être huilé quotidiennement. |
+| **2** | Une _ortie de glace_, qui piège et draine les moutons. Vous avez perdu votre commission lorsque le champignon que vous avez introduit a tué la moitié du troupeau. Prenez une **Graine de givre** (1 utilisation). Elle gèle n'importe quelle étendue d'eau, quelle que soit sa taille. Ne la mangez pas. |
+| **3** | Un _rampant argenté des marais_ qui a tué l'un de vos proches. Vous portez maintenant sa **Dent** (_insignifiant_) sur une chaîne autour du cou en guise d'avertissement pour les autres de son espèce. _La dent bourdonne doucement lorsque quelque chose vous traque_. |
+| **4** | Un _esprit de la forêt_ malveillant qui a empoisonné une propriété. Vous avez sauvé une **Graine-Cœur** des racines d'un arbre mourant (plantez-la pour créer une nouvelle forêt). Prenez aussi des **Brassards en fer** (+1 Armure, _encombrant_). |
+| **5** | Un _loup creux_ qui effrayait les voyageurs. Vous avez eu pitié de cette créature à moitié affamée et l'avez soignée. Aujourd'hui, il vous est fidèle jusqu'à la mort. C'est aussi un excellent tunnelier. 5 PP, 11 FOR, 13 DEX, 8 VOL, dents (d6). |
+| **6** | Une _fauvette azurée_. Les gamètes rapportent beaucoup, s'ils sont correctement extraits. Vous avez réussi, mais vous avez laissé son nid aux loups. Prenez un **Couteau d'office** (d6), **20 po supplémentaires** et une pointe de regret. |                                                               |
 
-## What tool is always in your pack? Roll 1d6:
+## Quel outil est toujours dans votre sac ? Lancez 1d6 :
 
 |       |                       |                                                                                                     |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+| **1** | **Spiritueux fermentés** | Vous tient au chaud dans les meilleurs moments et sert d'explosif dans les pires. 3 utilisations. |
+| **2** | **Hochet de pistage** | Un instrument bruyant qui révèle les pistes proches, même lorsqu'elles sont profondément cachées. |
+| **3** | **Baume de somnolence** | Une barre de cire. Si elle est bouillie dans l'eau, la vapeur agit comme un agent soporifique. |
+| **4** | **Piton et corde** | Pour traverser des terrains difficiles ou pour créer des pièges et des structures de fortune. |
+| **5** | **Crécelle en fer** | Une crécelle pour distraire ou effrayer votre proie. Le son émis ressemble à s'y méprendre à un serpent. |
+| **6** | **Colle durcissante** | Rend tout matériau plat (tissu, cuir, sable) aussi dur que la pierre. Cher (20 po le flacon, 3 utilisations). |

@@ -5,44 +5,44 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Cutpurse
+# Chapardeur
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> Vous vivez dans la zone grise entre ceux qui ont le pouvoir et ceux qui ne l'ont pas. Vous trouvez des opportunités là où d'autres ne voient que le chaos. Avec des doigts agiles, vous délestez aussi bien le plus riche des marchands que le plus humble des gardes.
 
-## Names
+## Noms
 
 Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+## Équipement de départ
 
-## What was your last big job? Roll 1d6:
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Poignards jumeaux (d6+d6, _encombrant_)
+- Cuir matelassé (1 Armure)
+- Crochets
+- Tenue noire (_insignifiant_)
+
+## Quel a été votre dernier gros coup ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** | La maison d'été d'un noble. L'endroit était rempli de vin de luxe (+20 po) mais pas grand-chose d'autre. Prenez des **Pinces coupantes**. |
+| **2** | Une banque. (Vous avez été pris.) Vous portez une marque qui n'est visible qu'à la lumière du feu, et toute personne qui la voit peut vous demander une bière. Prenez des **Fils rétractables**. |
+| **3** | Un entrepôt de guilde. Prenez une **Échelle** (_encombrant_, 3 m) et de la **Poudre aveuglante** (1 utilisation). |
+| **4** | Usurier. Quelqu'un vous a devancé mais a laissé derrière lui un **Parchemin** de l'_Œil des Arcanes_ (_insignifiant_). _Œil des Arcanes_: Vous pouvez voir à travers un globe oculaire flottant et magique, volant aux alentours et à vos ordres. |
+| **5** | Quartier d'un brigadier. Vous vous êtes échappé mais avez laissé quelques amis derrière vous. Prenez une **Corde de soie solide** (9 m) et une sensation de nausée. |
+| **6** | Une université. Vous avez été vu mais pas poursuivi. Vous ne savez toujours pas pourquoi. Prenez des **Boules fumigènes** (3 utilisations). |
 
-## What helps you steal? Roll 1d6:
+## Qu'est-ce qui vous aide à voler ? Lancez 1d6 :
 
 |       |                       |                                                                                                                                                    |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
+| **1** | **Anneau de chat** | 2 charges. Grimpez aux murs et tombez en toute sécurité. **Recharge**: Placez l'anneau sur la queue d'un chat errant. |
+| **2** | **Doigt d'or** | 1 charge. Un gant de doigt qui imite n'importe quelle clé ordinaire. **Recharge**: Empaquetez-le avec au moins 100 po pendant une nuit. |
+| **3** | **Verre à aperçu** | 3 utilisations. Un monocle qui vous permet de voir à travers les murs ou d'autres obstacles. Il se brise après la dernière utilisation. |
+| **4** | **Doux-sifflet** | 1 charge. Les auditeurs entendent au loin une voix douce et familière qu'ils ne peuvent s'empêcher de suivre. **Recharge**: Perdez un souvenir cher. (Décrivez-le.) |
+| **5** | **Voile du vagabond** | 1 charge. Portez-le pour vous fondre dans la foule et vous faire passer pour un simple indigent. **Recharge**: Faites don de vos gains de la journée aux pauvres. _Insignifiant_ |
+| **6** | **Toton inverse** | 1 utilisation. Lorsqu'on le fait tourner, le temps revient 30 secondes en arrière. Tout le monde se souvient de ce qui s'est passé. |
 
 

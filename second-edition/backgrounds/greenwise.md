@@ -5,43 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Greenwise
+# Sage Vert
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> Vous vous enfoncez dans les profondeurs du **Bois**, vous en percez les secrets entre les branches rugueuses et les feuilles chuchotantes. Pour ce royaume verdoyant, vous n'êtes pas qu'un simple érudit, mais aussi son confident.
 
-## Names
+## Noms
 
 Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Chaudron de fer
+- Couteau à racine (d6)
+- Pommade de guérison (restaure 1d4 FOR, 1 utilisation)
+- Boule de ficelle (_insignifiant_, _Protection_ une fois par jour) _Protection_: Un cercle argenté de 15 m de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser.
 
-## How has the Wood failed you ? Roll 1d6:
+## En quoi le Bois vous a-t-il failli ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+| **1** | Un esprit de la forêt de mauvaise humeur vous a maudit pour avoir volé, vous marquant comme un ennemi des leurs. Prenez une **Pierre de bézoard**. L'ingérer guérit tout poison (1 utilisation, sauf si elle est récupérée). |
+| **2** | Un ami proche a disparu dans la forêt. Maintenant, vous voyez son visage dans chaque thé que vous préparez. Prendre une **Concoction soporifique** (3 utilisations). |
+| **3** | Vous avez été empoisonné et avez perdu le goût et l'odorat. Vous pouvez maintenant résister aux vapeurs nocives et portez toujours de l'**Antitoxine** (2 utilisations). |
+| **4** | Vos expériences radicales ont rendu votre peau verte et vous vous nourrissez désormais comme une plante. Vous n'avez pas besoin de **Rations**, mais une journée sans soleil ni eau vous laisse dans un état de _privation_. |
+| **5** | Votre impressionnante fleur de cadavre a remporté un concours local, puis a rapidement tué un juge. Vous vous êtes enfui, mais pas sans l'**argent du prix (100 po)** et un mandat d'arrêt. |
+| **6** | Vous avez créé une teinture-mère réparatrice qui provoque également une infertilité accidentelle. Prenez une **Potion de guérison** qui restaure complètement la FOR. Vous êtes le seul à connaître ses effets secondaires involontaires. |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## Qu'est-ce qui vous protège dans le Bois ? Lancez 1d6 :
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+| **1** | **Amadou** | Un champignon vermillon qui s'enflamme très facilement. 3 utilisations. |
+| **2** | **Delphinium** | Respirer de l'eau pendant une heure. 1 utilisation, mais peut être divisé en doses fractionnées. |
+| **3** | **Tige collante** | Un roseau ligneux qui durcit en un adhésif permanent lorsqu'il est mâché. 2 utilisations. |
+| **4** | **Lanterne feu follet** | Enfermé dans une cage en fer forgé, fournit une faible lumière tant que le feu follet est capable de se nourrir de la douleur et de la peur environnantes. |
+| **5** | **Bombe de graines** | Un sac en toile rempli de graines qui explose à l'impact. d6 dégâts (_explosion_, 3 utilisations). |
+| **6** | **Vigne épineuse** | Empêtre toute créature jusqu'à la taille d'un cheval (FOR pour se libérer). Réutilisable. |

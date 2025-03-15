@@ -5,43 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Half Witch
+# Demi-sorcière
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> Né à la fois du monde des mortels et de l'invisible, vous êtes une énigme pour certains et craint par beaucoup. Votre histoire est celle de ce qui arrive lorsque deux mondes se percutent.
 
-## Names
+## Noms
 
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+## Équipement de départ
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Livre de sorts (Fourré : Un fourré d'arbres et de broussailles denses d'une largeur maximale de 15 mètres pousse soudainement. _Il est entouré de lianes qui doivent être détruites à chaque utilisation_).
+- Dague de fer (d6)
+- Pochon d'herbes (restaure 1 FOR, 3 utilisations)
+- Cape de camouflage
+
+## Qu'avez-vous ramené de la Cour des Unseelies ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
+| **1** | Un **Violon de Rose Noire** (_encombrant_). Sa musique provoque une tristesse intense et l'immobilité des mortels se trouvant à proximité. (Les autres sont simplement fascinés.) Vous ne savez pas en jouer. |
+| **2** | **Jambes en papier**. Vous êtes extrêmement léger et vous pouvez tomber de quelques étages sans vous blesser. Essayez d'éviter de les déchirer ou de les mouiller. |
+| **3** | Un **Cauchemar vivant** qui vit en vous mais se manifeste dès que vous êtes en danger. Il possède les mêmes **Caractéristiques** et **PP** que vous et attaque avec des griffes (d8+d8). Il disparaît en cas de **Dégâts critiques** (1d4 points de dégâts VOL) et réapparaît à la pleine lune suivante. |
+| **4** | Un **Familier Corbeau** [8 PP, 3 FOR, 11 DEX, 13 VOL, bec, (d6)]. Il parle en être intelligent et vous est entièrement dévoué.[] |
+| **5** | Une **Épine de bruyère**. Elle peut percer n'importe quelle matière organique (assez douloureusement) mais, une fois retirée, ne laisse aucune trace de l'intrusion. |
+| **6** | Le **Vrai nom** d'une Fée. Utilisez-le pour convoquer son propriétaire pour un acte d'une grande utilité, mais une seule fois. Il peut aussi rapporter gros à l'acheteur. |
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+## Quelle concoction transportez-vous, et quels ingrédients rares avez-vous réunis pour la fabriquer ? Lancez 1d6 :
 
 |       |                      |                                                                                                                                                                                |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+| **1** | **Frêne de renaissance** | Restes d'un esprit d'écorce. Saupoudrer pour rallumer un feu qui s'est éteint ou ramener à la vie une créature morte quelques instants auparavant. 3 utilisations. |
+| **2** | **Plume de glamour** | Le panache d'un oiseau de feu. Peut faire passer n'importe quelle créature pour quelqu'un (ou quelque chose) d'autre, de manière convaincante. 1 utilisation. |
+| **3** | **Graine d'aubépine** | Un gland venant de l'autre côté, récolté à l'équinoxe de printemps. Lorsqu'il est planté, il fait pousser un abri luxueux qui s'effondre le lendemain au lever de lune. 1 utilisation. |
+| **4** | **Sève d'arbre de pierre** | Sève obtenue en échange de sang. Durcit lorsqu'elle est frottée sur n'importe quelle surface (+1 Armure). 3 utilisations. |
+| **5** | **Poudre de poussière de nuit** | Fabriquée à partir de la combustion rituelle de six hiboux. Jetée en l'air, le jour se transforme en nuit pour un court instant. 2 utilisations. |
+| **6** | **Pierre de malédiction** | Récoltée dans une rivière qui coule depuis _l'autre côté_. Retiré de sa boîte en fer, elle peut absorber les effets d'une magie active. Si elle est détruite, la magie est libérée. 1 utilisation. |

@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Scrivener
+# Scribe
 
-> You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
+> Vous copiez des textes anciens et enluminez des manuscrits, consignant les voix des talentueux, des grands et des puissants. Vous prouverez que la plume est vraiment plus forte que l'épée.
 
-## Names
+## Noms
 
 Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Quill & Ink
-- Blank Book
-- Awl (d6)
-- Badge (_petty_)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Plume et encre
+- Livre vierge
+- Alène (d6)
+- Insigne (_insignifiant_)
 
-## What work did you keep for yourself? Roll 1d6.
+## Quel ouvrage avez-vous gardé pour vous ? Lancez 1d6.
 
 |       |                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.                                                            |
-| **2** | **The Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.                                                                 |
-| **3** | **A Treatise on the Abyss**. A nondescript black book. An in-depth, largely theoretical text describing the **Roots**, as well as information about the location of a nearby **Gate**.                  |
-| **4** | **The Star Waltz**. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers. |
-| **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
+| **1** | **La langue sauvage**. Une liasse de parchemins reliés en cuir. Un ouvrage fondamental, qui répertorie les langues cachées des bêtes et explique comment les comprendre. |
+| **2** | **La Symphonie silencieuse**. Relié dans un couverture fluorescente. Très rare, il relate les signes subtils utilisés par ceux qui emploient la magie de l'invisibilité. |
+| **3** | **Un traité sur l'Abysse**. Un livre noir quelconque. Un texte approfondi, en grande partie théorique, décrivant les **Racines**, ainsi que des informations sur l'emplacement d'un **Portail** proche. |
+| **4** | **La valse des étoiles**. Un fermoir en forme de comète relié dans une fine couverture de cuir. Cartes astronomiques détaillées, mouvements célestes et fêtes stellaires. D'une grande valeur (100 po) de par son utilité pour les voyageurs. |
+| **5** | **La cathédrale et la canopée**. Reliure à grandes feuilles sur vélin. Il s'agit en principe d'un livre de contes pour enfants, mais les marges contiennent des informations détaillées sur les voyages, les repas et le sommeil dans les forêts des nuages. |
+| **6** | **Jardin de verre**. Relié dans la couverture d'un autre livre. Cet ouvrage hérétique décrit les matériaux, les procédures et les emplacements optimaux nécessaires à l'ouverture d'un **Portail**. |
 
-## How do you transcribe sensitive information? Roll 1d6.
+## Comment transcrivez-vous des informations sensibles ? Lancez 1d6.
 
 |       |                   |                                                                                                                           |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
-| **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
-| **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
-| **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
+| **1** | **Encre de bobard** | S'illumine lorsqu'il est utilisé pour écrire des affirmations vraies, mais s'estompe s'il est utilisé pour écrire des affirmations fausses. |
+| **2** | **Pierre de chiffrage** | Une paire de pierres noires et tranchantes. Chacune décrypte tout message écrit par l'autre. |
+| **3** | **Plume permanente** | Une plume qui écrit sur n'importe quelle surface. Il faut quand même de l'encre. _Insignifiant_. |
+| **4** | **Fiole de chuchotement** | Chuchotez un message dans la fiole et elle le transmettra à la personne qui l'ouvrira ensuite. |
+| **5** | **Lentille sanguine** | Extrait le sang d'une cible à son insu. Une goutte volée placée sur l'œil révèle les souvenirs de la journée écoulée. |
+| **6** | **Feuille d'écho** | Un parchemin vierge. Quiconque le déroule voit ses actions de la journée lentement révélées dans un griffonnage serré. _Insignifiant_. |

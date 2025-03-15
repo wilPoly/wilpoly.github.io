@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Rill Runner
+# Ruisselier
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Vous chantez les histoires des rivières et des lacs, vos talents apaisant les amis et les éléments. Vous en avez vu plus que la plupart des gens, mais cela ne semble jamais suffisant.
 
-## Names
+## Noms
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Chaussures d'eau
+- Brigandine (1 Armure, _encombrant_)
+- Boussole
+- Poignard (d6)
 
-## What songs are you best known for? Roll 1d6:
+## Quelles sont les chansons pour lesquelles vous êtes le plus connu ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+| **1** | _Le two-step de l'étameur_. Un conte de fées humoristique sur un voyageur qui offre des cadeaux. Commencez avec un **Sifflet en roseau**. Toute personne à portée de voix doit réussir une sauvegarde de VOL pour accomplir un acte de violence. |
+| **2** | _La Sylphide et son amant_. Une histoire paillarde d'amour perdu. Commencez avec un **Nœud de brise** (3 charges). Crée une forte brise. **Recharge**: Attachez-le à un mât pendant une tempête. |
+| **3** | _La Dévotion de Harper_. Un conte court et triste sur un musicien qui tombe amoureux d'une étoile. Commencez avec un **Luth céleste**. Révèle les constellations du ciel, quel que soit le temps. |
+| **4** | _Le pêcheur des roseaux_. Une chanson célèbre sur une carpe énorme qui semble toujours s'échapper. Commencez avec une bobine de **Ficelle de rivière** (5 utilisations). Chaque plongée dans la rivière garantit une prise, même si elle n'est pas forcément agréable. |
+| **5** | _La chanson du ruisseau d'argent_. Une berceuse sans paroles qui imite l'écoulement de l'eau. Prenez une **Flûte de pierre** qui peut calmer presque toutes les rivières. |
+| **6** | _La grive et la prairie_. Une histoire maussade racontée en chœur alterné. Commencez avec une **Plume d'oie** (1 utilisation, _insignifiant_). Une carte dessinée avec cette plume révèle le chemin le plus rapide entre deux points. |
 
-## What pays your way across the land? Roll 1d6:
+## Qu'est-ce qui finance vos voyages à travers le pays ? Lancez 1d6 :
 
 |       |                     |                                                                                                                                             |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+| **1** | **Représentation** | Se produire dans les tavernes rapporte toujours le gîte et le couvert. Parfois, vous recevez même des pourboires ! Commencez avec **10 po** supplémentaires. |
+| **2** | **Garde du corps** | Vous êtes le protecteur de ceux qui ont peur de voyager seuls. Commencez avec une **Rapière** (d8). |
+| **3** | **Marchandises** | Vous achetez à bas prix et vendez à prix fort, en gagnant toujours juste ce qu'il faut pour vous en sortir. Prenez un **objet** d'une valeur de **20 po** (ou moins) dans la table d'[équipement](/second-edition/players-guide/marketplace#gear). |
+| **4** | **Transport** | Vous livrez des colis "délicats" dans tout le pays. Vous avez au moins un contact dans chaque grand bourg. |
+| **5** | **Ami du marin** | Sur des eaux troubles et à travers des vents dangereux, vous veillez toujours à ce qu'un navire arrive à destination. Pour vous, le passage est toujours gratuit. |
+| **6** | **Guide** | Vous guidez les caravanes et les voyageurs à travers des terres détrempées. Commencez une **Carte** (_insignifiant_) pour votre prochain voyage. |

@@ -5,44 +5,44 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Kettlewright
+# Chaudronnier
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> On vous reconnaît à l'odeur du métal en fusion et au tintement de l'étain. Vous n'êtes pas un simple marchand, mais un artisan du feu et du métal.
 
-## Names
+## Noms
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 pièces d'or
+- Rations (3 utilisations)
+- Torche (3 utilisations)
+- Tenailles
+- Rouleau d'étain
+- Gants (_insignifiant_)
+- Marteau (d6)
 
-## What is your trade? Roll 1d6:
+## Quel est votre métier ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](/second-edition/players-guide/spellbooks) (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | Vous construisez de petits engins pour les guildes locales (et ne posez pas trop de questions). Prenez 40 po supplémentaires et un avis de recherche avec votre portrait. Avec du temps et du matériel, vous pouvez ouvrir presque n'importe quelle porte ou chambre forte. |
+| **2** | Vous faites le commerce d'articles ménagers et d'outils, vendant à la criée aux habitants des bourgs de toutes les régions. Prenez pour 20 po d'objets dans la table d'[équipement](/second-edition/players-guide/marketplace#gear). Vous parlez couramment l'_Argot des voyageurs_. |
+| **3** | Vous étiez fondeur militaire, avant que la paix ne détruise votre gagne-pain. Prenez un **marteau de forgeron** (d10, _encombrant_) et un **casque d'étain** (+1 Armure). Avec du temps et des matériaux adéquats, vous pouvez réparer des armures. |
+| **4** | Vous vendez des objets rares et de qualité aux monastères comme aux nobles. Prenez une **Longue-vue**, un **Collier** (_insignifiant_) d'une valeur de 20 po, et un **Parchemin** de [Traversée de miroir](/second-edition/players-guide/spellbooks) (_insignifiant_). |
+| **5** | Vous proposez des services de protection, guettant tranquillement les menaces pendant que de l'argent est échangé. Vous commencez avec **+d4 PP**, et portez une **Épée longue** (d10, _encombrant_) et un **Gambison** (+1 Armure). |
+| **6** | Vous fouillez les champs de bataille pour de l'étain et du fer bruts, arrachant les dents de cadavres encore agités. Commencez avec un jeune **Âne** (+4 emplacements, lent), une **Arbalète** (d8 dégâts, _encombrant_) et une **Scie** (d6). |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## Qu'est-ce qui vous sort toujours du pétrin ? Lancez 1d6 :
 
 |     |                    |                                                                                                                                                                  |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
+| 1 | **Œufs de feu** | Six petites boulettes composées de sel marin, de bois et de poussière de faïence. Elles explosent à basse température (d8, _explosion_) mais les flammes se dissipent rapidement. |
+| 2 | **Goudron noir** | Polyvalent : à la fois collant et hautement inflammable. 3 utilisations. |
+| 3 | **Bottes d'escalade** | Brise les têtes (d8) aussi facilement que la glace et la boue. Vous voyagez plus lentement, mais plus facilement. |
+| 4 | **Pâte d'étameur** | Scelle toute ouverture de la taille d'un poing. 3 utilisations. |
+| 5 | **Feux d'artifice** | Un spectacle éblouissant mais dangereux. Suffisamment d'explosifs pour faire sauter un doigt ou trois. Il reste 2 utilisations. |
+| 6 | **Chat charognard** | Un animal de compagnie intelligent, assez petit pour se cacher dans votre sac (_encombrant_), mais assez fort pour effrayer les petits prédateurs. A besoin d'une **Ration** par jour, et il doit s'agir de viande. |
 |     |                    |                                                                                                                                                                  |
 
