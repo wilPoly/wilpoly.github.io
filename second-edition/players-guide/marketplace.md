@@ -5,120 +5,120 @@ parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Marketplace 
+# Marché
 
-> All prices are in gold pieces  
+> Tous les prix sont en pièces d'or
 
-## Armor
+## Armure
 
 |                               |     |
 | ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| Bouclier (+1 Armure) | 10 |
+| Casque (+1 Armure) | 10 |
+| Gambison (+1 Armure) | 15 |
+| Brigandine (1 Armure, _encombrant_) | 20 |
+| Cotte de mailles (2 Armure, _encombrant_) | 40 |
+| Plate (3 Armure, _encombrant_) | 60 |
 
-## Weapons
+## Armes
 
 |                                                             |     |
 | ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+| Dague, Gourdin, Faucille, Bâton, etc. (d6 dégâts) | 5 |
+| Lance, épée, masse, hache, fléau, etc. (d8 dégâts) | 10 |
+| Hallebarde, Marteau de guerre, Épée longue, etc. (d10 dégâts, _encombrant_) | 20 |
+| Fronde (1d6 dégâts) | 5 |
+| Arc (d6 dégâts, _encombrant_) | 20 |
+| Arbalète (1d8 dégâts, _encombrant_) | 30 |
 
 ## Transport
 
 |                          |     |
 | ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+| Charrette (+4 emplacements, _encombrant_) | 30 |
+| Chariot (+8 emplacements, lent) | 200 |
+| Cheval (+4 emplacements) | 75 |
+| Mule (+6 emplacements, lent) | 30 |
+| Place de calèche | 5 |
+| Traversée en bateau | 10 |
 
-## Upkeep & Recovery
+## Entretien et Récupération
 
 |                               |     |
 | ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+| Chambre et pension (par nuit) | 10 |
+| Chambre privée et pension (pour 4 personnes) | 35 |
+| Écurie et fourrage (par nuit) | 5 |
+| Guérison médicale | 50 |
+| Rations (3 utilisations) | 10 |
+| Nourriture pour animaux (3 utilisations, encombrant) | 5 |
 
-## Hirelings (per day)
+## Mercenaires (par jour)
 
 |                   |     |
 | ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+| Alchimiste | 30 |
+| Dresseur | 5 |
+| Forgeron | 15 |
+| Garde du corps | 10 |
+| Guide local | 5 |
+| Crocheteur | 10 |
+| Navigateur | 10 |
+| Marin | 5 |
+| Érudit | 20 |
+| Pisteur | 5 |
+| Trappeur | 5 |
+| Garde du corps vétéran | 20 |
 
 
-## Gear
+## Équipement
 
 |                                                    |     |
 | -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+| Chambre à air | 5 |
+| Antitoxine | 20 |
+| Bandages (3 utilisations) | 30 |
+| Produits de bain (savon, parfum, etc.) | 5 |
+| Livre | 50 |
+| Chausse-trapes | 10 |
+| Jeu de cartes | 5 |
+| Chaîne (3 m) | 10 |
+| Craie (_insignifiant_) | 1 |
+| Coffre | 25 |
+| Burin | 5 |
+| Substances courantes (colle, graisse, etc.) | 10 |
+| Outils courants (marteau, pelle, etc.) | 10 |
+| Boussole | 75 |
+| Instruments complexes (cornemuse, violon, etc.) | 50 |
+| Contenants (sac, gourde, etc.) | 10 |
+| Matériel de cuisine (casseroles, ustensiles, etc.) | 10 |
+| Costumes (maquillage, déguisement) | 15 |
+| Baguette de sourcier | 15 |
+| Matériel d'expédition (crampons d'escalade, poulie, etc.) | 10 |
+| Huile de feu | 10 |
+| Canne à pêche | 10 |
+| Jeux (cartes, dés, etc.) | 10 |
+| Gants (_insignifiant_) | 20 |
+| Grappin | 25 |
+| Lanterne | 10 |
+| Miroir | 5 |
+| Filet | 10 |
+| Bidon d'huile (6 utilisations) | 10 |
+| Confort extérieur (couverture, hamac, etc.) | 10 |
+| Parchemin (3 utilisations) | 10 |
+| Perche (3 m) | 5 |
+| Répulsif (aconit, armoise, etc.) | 10 |
+| Corde (7,5 m) | 5 |
+| Sédatif | 30 |
+| Kit de couture | 20 |
+| Instruments simples (cornemuse, luth, etc.) | 10 |
+| Pipe à fumer (_insignifiant_) | 15 |
+| Outils spécialisés (encre, etc.) | 20 |
+| Bottes d'escalade | 15 |
+| Longue-vue | 40 |
+| Tente (pour 2 personnes, _encombrant_) | 20 |
+| Outils de voleur (crochet, lime en métal, etc.) | 25 |
+| Torche (3 utilisations) | 5 |
+| Piège (d6 dégâts de FOR) | 35 |
+| Sifflet (_insignifiant_) | 15 |
+| Vêtements pour les contrées sauvages (poncho, cape, etc.) (_insignifiant_) | 15 |

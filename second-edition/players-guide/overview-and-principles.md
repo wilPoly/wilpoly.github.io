@@ -5,134 +5,134 @@ parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Overview & Principles
+# Présentation et principes
 
-## Overview
+## Présentation
 
-### Neutrality
+### Neutralité
 
-The Warden's role is to act as a neutral arbiter and portray the rules, situations, non-player characters (NPCs), and narrative clearly.
+Le rôle du Gardien est d'agir en tant qu'arbitre neutre et de présenter clairement les règles, les situations, les personnages non-joueurs (PNJ) et le récit.
 
-### Classless
+### Sans classe
 
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+Le rôle et les compétences d'un personnage ne sont pas limités par une seule classe. Au contraire, c'est l'équipement qu'il porte et ses expériences qui définissent sa spécialité.
 
-### Death
+### La mort
 
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+Bien que puissants, les personnages sont aussi vulnérables à toutes sortes de dangers. La mort attend toujours au tournant, mais ne survient jamais au hasard ou sans avertissement.
 
-### Fiction First
+### La fiction avant tout
 
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are based on in-world elements and arbitrated by the Warden in dialogue with the players.
+Les dés ne reflètent pas toujours la difficulté ou l'issue d'un obstacle. Au contraire, le succès et l'échec sont basés sur des éléments du monde et arbitrés par le Gardien, à travers une discussion avec les joueurs.
 
-### Growth
+### Développement
 
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+Les personnages évoluent à travers leur progression dans le monde, acquérant de nouvelles compétences et capacités en survivant à des événements dangereux et en surmontant des obstacles.
 
-### Player Choice
+### Choix du joueur
 
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+Les joueur⋅euses devraient toujours comprendre les raisons des choix qu'iels ont faits, et les informations sur les risques potentiels devraient être fournies librement et fréquemment.
 
-### Principles
+### Principes
 
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+Le Gardien et les joueur⋅euses ont chacun⋅e des directives qui favorisent une expérience de jeu spécifique définie par la pensée critique, l'exploration et une narration émergente.
 
-### Shared Objectives
+### Objectifs communs
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
+Les joueur⋅euses se font confiance pour s'engager dans l'histoire commune, les objectifs des personnages et les défis du groupe. Par conséquent, le groupe travaille généralement ensemble vers un objectif commun, en tant qu'équipe.
 
-## Principles for Players
+## Principes pour les joueur⋅euses
 
-### Agency
+### Capacité d'agir
 
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do; ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- Les caractéristiques et les sauvegardes associées ne définissent pas votre personnage. Ce sont des outils.
+- Ne vous contentez pas de vous demander ce que votre personnage ferait, demandez-vous aussi ce que vous feriez.
+- Faites preuve de créativité avec votre intuition, vos objets et vos relations.
 
-### Teamwork
+### Travail d'équipe
 
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- Sollicitez le consensus des autres joueurs avant d'avancer en trombe.
+- Soyez d'accord en ce qui concerne les objectifs et les limites ; respectez-vous les uns les autres et accomplissez plus de choses en groupe que seul.
 
 ### Exploration
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- Poser des questions et prêter attention aux détails est plus utile que les statistiques, les objets ou les compétences que vous possédez.
+- Acceptez la description du Gardien sans vous méfier, mais n'hésitez pas à demander plus d'informations.
+- Il n'y a pas qu'une seule solution correcte pour avancer.
 
-### Talking
+### Intéragir
 
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- Traitez les PNJ comme s'il s'agissait de personnes réelles et fiez-vous à votre curiosité pour obtenir des informations et résoudre des problèmes de manière sûre.
+- Vous constaterez que la plupart des gens sont intéressants et qu'ils souhaitent discuter avant de devenir violents.
 
-### Caution
+### Prudence
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor, and retreat when things seem unfavorable.
+- Se battre est un choix, rarement judicieux ; demandez-vous si la violence est le meilleur moyen d'atteindre vos objectifs.
+- Essayez de mettre toutes les chances de votre côté et battez en retraite lorsque la situation vous semble défavorable.
 
-### Planning
+### Planifier
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research, and ask around about your objectives.
+- Réfléchissez à des moyens d'éviter les obstacles en explorant, en faisant preuve de subtilité et en enquêtant.
+- Faites des recherches et posez des questions autour de vous sur vos objectifs.
 
 ### Ambition
 
-- Set goals, and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward, and play to see what happens.
+- Fixez-vous des objectifs et utilisez vos maigres moyens pour progresser.
+- Ne vous attendez à rien. Gagnez votre réputation.
+- Continuez à aller de l'avant et jouez pour découvrir ce qui va se passer.
 
-## Principles for Wardens
+## Principes pour les Gardiens
 
-### Information
+### Informations
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- Fournissez des informations utiles sur le monde du jeu au fur et à mesure que les personnages l'explorent.
+- Les joueur⋅euses n'ont pas besoin de lancer les dés pour en savoir plus sur leur situation.
+- Soyez utile et direct dans vos réponses à leurs questions.
+- Répondez honnêtement, décrivez de manière cohérente et faites-leur toujours savoir qu'iels peuvent continuer à poser des questions.
 
-### Difficulty
+### Difficulté
 
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- Privilégier le contexte et le réalisme plutôt que les chiffres et les mécanismes.
+- Si les joueur⋅euses veulent faire quelque chose de vraiment impossible, aucun jet ne leur permettra de le faire.
+- Ce que la joueur⋅euse décrit et comment iel exploite la situation sont-ils raisonnables ? Laissez faire.
+- Les sauvegardes couvrent un grand nombre de situations incertaines et sont souvent suffisantes pour des actions risquées.
 
-### Preparation
+### Préparation
 
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- Le monde du jeu est organique, malléable et aléatoire. Il fait appel à l'intuition et prend des tournures inattendues.
+- Utilisez des tables aléatoires et des générateurs pour développer des situations, et non des histoires ou des intrigues.
+- Les PNJ se souviennent de ce que les PJ disent et font, et de la façon dont ils affectent le monde.
+- Les PNJ ne veulent pas mourir. Insufflez leur intérêt personnel et leur volonté de vivre dans chaque personnalité.
 
-### Narrative Focus
+### Accent sur la narration
 
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- Ce qui compte, c'est l'expérience de jeu émergente, pas les mathématiques ou les capacités des personnages. Proposez aux joueur⋅euses des maîtres d'armes et des quêtes personnelles pour favoriser l'amélioration et la spécialisation.
+- Prêtez attention aux besoins et aux souhaits des joueurs, puis placez des opportunités réalistes sur leur chemin.
+- Une dague plantée dans la gorge vous tuera, qu'importe votre armure coûteuse et votre entraînement impressionnant.
 
 ### Danger
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- Le monde du jeu comporte des risques réels de souffrance et de mort pour les personnages joueurs.
+- Communiquez clairement la présence d'un grave danger aux joueur⋅euses. Plus c'est dangereux, plus c'est évident
+- Placez les pièges en évidence et laissez les joueur⋅euses prendre le temps de trouver une solution.
+- Donnez aux joueur⋅euses la possibilité de résoudre des problèmes et d'interagir avec le monde.
 
-### Treasure
+### Trésor
 
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- Un Trésor est lié à l'environnement dans lequel il a été trouvé. Il raconte une histoire.
+- Un Trésor a une grande valeur, est presque toujours encombrant et est rarement utile au-delà de sa valeur et de son prestige.
+- Les Reliques ne sont pas des Trésors, mais elles sont utiles et intéressantes.
+- Utilisez le Trésor comme appât vers des lieux exotiques sous la protection d'ennemis intimidants.
 
-### Choice
+### Choix
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- Donnez aux joueur⋅euses un choix concret pour pousser au dénouement lorsque l'action stagne.
+- Utilisez des réponses binaires du type "alors, A ou B ?" lorsque leurs intentions sont vagues.
+- Travaillez ensemble en utilisant cette méthode de conversation pour faire avancer le jeu.
+- Veiller à ce que les actions du personnage joueur laissent une trace dans le monde du jeu.
 
-### Die of Fate
+### Dé du Destin
 
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- De temps en temps, vous voudrez ajouter un élément de hasard (par exemple, le temps qu'il fait, les connaissances uniques d'un personnage, etc.)
+- Dans ces situations, lancez 1d6. Un résultat de 4 ou plus favorise généralement les joueurs.
+- Un résultat de 3 ou moins est généralement synonyme de malchance pour les PJ ou leurs alliés.
