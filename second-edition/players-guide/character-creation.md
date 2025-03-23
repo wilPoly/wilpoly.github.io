@@ -9,8 +9,8 @@ grand_parent: Second Edition
 
 ## Lancer ou choisir un Historique
 
-- Tout d'abord, lancez ou choisissez dans le tableau des [Historiques](#backgrounds) ci-dessous et notez le numéro de la page. Vous vous référerez à cette page pour les étapes suivantes.
-- Choisissez un nom dans la liste disponible, puis notez chacun des objets de départ de votre personnage. Voir [Inventaire](#inventory) et [emplacements d'inventaire](#inventory-slots) pour savoir comment noter les objets.
+- Tout d'abord, lancez ou choisissez dans le tableau des [Historiques](#backgrounds) ci-dessous et notez le numéro de la page. Vous vous référerez à cette page pour les quelques étapes suivantes.
+- Choisissez un nom dans la liste disponible, puis notez chacun des objets de départ de votre personnage. Voir [Inventaire](#inventory) et [Emplacements d'inventaire](#inventory-slots) pour savoir comment noter les objets.
 - Lancez le dé sur chacune des tables incluses dans l'historique. Notez les objets, compétences ou aptitudes de votre personnage pour chaque résultat. Certains historiques peuvent vous demander de vous référer également aux tables du [Marché](/second-edition/players-guide/marketplace).
 
 ## Historiques
@@ -29,27 +29,27 @@ grand_parent: Second Edition
 | **9** | [Fourrageur fongique](/second-edition/backgrounds/fungal-forager) | **19** | [Ruisselier](/second-edition/backgrounds/rill-runner) |
 | **10** | [Sage Vert](/second-edition/backgrounds/greenwise/) | **20** | [Scribe](/second-edition/backgrounds/scrivener) |
 
-## Caractéristiques, Points de Protection et Traits de caractère
+## Attributs, Points de Protection et Traits
 
-- Lancez le dé pour les **Caractéristiques** et les **Points de Protection** de votre personnage.
-- Lancez les autres [Traits de caractère](#character-traits-d10) de votre personnage, puis consultez la table des [Liens](#bonds).
-- Enfin, faites un jet pour déterminer l'**âge** de votre personnage (2d20+10). Si vous êtes le _plus jeune_ personnage, faites un jet sur la table des [Présages](#omens). Le résultat doit être lu à haute voix aux autres joueur⋅euses. Le Gardien doit intégrer les Présages dans la narration comme il l'entend.
+- Lancez le dé pour les **Attributs** et les **Points de Protection** de votre personnage.
+- Lancez les autres [Traits](#character-traits-d10) de votre personnage, puis consultez la table des [Liens](#bonds).
+- Enfin, faites un jet pour déterminer l'**âge** de votre personnage (2d20+10). Si vous êtes le _plus jeune_ personnage, faites un jet sur la table des [Présages](#omens). Le résultat doit être lu à haute voix aux autres joueur⋅euses. Le Gardien devrait intégrer les Présages dans la narration comme il l'entend.
 
-## Caractéristiques
+## Attributs
 
-- Les personnages joueurs n'ont que trois Caractéristiques : (**Force (FOR)**, **Dextérité (DEX)** et **Volonté (VOL)**).
-- Lancez 3d6 pour chacune des **Caractéristiques** de votre personnage, dans l'ordre. Vous pouvez ensuite échanger deux des résultats.
-- Les Caractéristiques ne sont pas des descripteurs universels. Un personnage ayant une faible FOR n'est pas nécessairement désespérément faible ; il peut encore tenter de soulever une lourde porte ou survivre à un combat mortel ! Le risque est simplement plus élevé.
+- Les personnages joueurs n'ont que trois Attributs : (**Force (FOR)**, **Dextérité (DEX)** et **Volonté (VOL)**).
+- Lancez 3d6 pour chacun des **Attributs** de votre personnage, dans l'ordre. Vous pouvez ensuite échanger deux des résultats.
+- Les Attributs ne sont pas des épithètes universels. Un personnage ayant une faible FOR n'est pas obligatoirement désespérément faible ; il peut encore tenter de soulever une lourde porte ou survivre à un combat mortel ! Le risque est simplement plus élevé.
 
 ## Points de Protection
 
-- Lancez 1d6 pour déterminer la valeur de départ des **Points de Protection** (PP) de votre PJ, qui reflète sa capacité à éviter les dégâts en combat. Elle n'indique pas la santé ou la force morale d'un personnage, qui ne la perd d'ailleurs pas très longtemps. Voir [Guérison et récupération](/second-edition/players-guide/core-rules#healing--recovery).
+- Lancez 1d6 pour déterminer les **Points de Protection** (PP) de départ de votre PJ, qui reflètent sa capacité à éviter les dégâts en combat. Ils n'indiquent pas la santé ou la force morale d'un personnage, qui ne les perd d'ailleurs pas très longtemps. Voir [Guérison et récupération](/second-edition/players-guide/core-rules#healing--recovery).
 - Si une attaque amène les PP d'un PJ exactement à 0, la joueur⋅euse doit faire un jet sur la table des [**Cicatrices**](/second-edition/players-guide/core-rules#scars).
 
 ## Inventaire
 
-- Les personnages disposent d'un total de dix emplacements d'inventaire, mais ne peuvent transporter confortablement que quatre ou cinq objets sans l'aide de sacs, sacs à dos, chevaux, charrettes, etc.
-- Chaque PJ commence avec un **Sac à dos** qui peut contenir jusqu'à six emplacements d'objets ou de **Fatigues**. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent faire une énorme différence dans la quantité d'objets qu'un PJ peut emporter avec elle lors d'une aventure. Les **Mercenaires** peuvent également être payés pour porter l'équipement.
+- Les personnages disposent d'un total de dix emplacements d'inventaire, mais ne peuvent transporter facilement que quatre ou cinq objets sans l'aide de sacs, sacs à dos, chevaux, charrettes, etc.
+- Chaque PJ commence avec un **Sac à dos** qui peut contenir jusqu'à six emplacements d'objets ou de **Fatigue**. Les charrettes (qui doivent être tirées à deux mains), les chevaux ou les mules peuvent faire une énorme différence dans la quantité d'objets qu'un PJ peut emporter avec lui lors d'une aventure. Les **Mercenaires** peuvent également être payés pour porter de l'équipement.
 - L'inventaire est abstrait et ne dépend que de la fiction décidée par le Gardien. Toute personne ayant un inventaire complet (c'est-à-dire remplissant les 10 emplacements) se retrouvera avec 0 PP. Un personnage ne peut pas remplir plus de dix emplacements.
 
 ### Emplacements d'inventaire
@@ -58,7 +58,7 @@ grand_parent: Second Edition
 - Les objets _insignifiants_ n'occupent aucun emplacement. Les objets _encombrants_ occupent **deux** emplacements.
 - Un sac de pièces d'une valeur inférieure à 100 po est _insignifiant_ et n'occupe pas d'emplacement.
 
-## Traits de caractère (d10)
+## Traits (d10)
 
 ### Physique
 
@@ -74,10 +74,10 @@ grand_parent: Second Edition
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Marques de naissance | **6** | Lisse |
-| **2** | Marquée | **7** | Tannée |
+| **1** | Marques de naissance | **6** | Douce |
+| **2** | Tachée | **7** | Bronzée |
 | **3** | Grasse | **8** | Tatouée |
-| **4** | Rose | **9** | Usée |
+| **4** | Rosée | **9** | Usée |
 | **5** | Scarifiée | **10** | Vieillie |
 
 ### Cheveux
@@ -85,8 +85,8 @@ grand_parent: Second Edition
 |       |         |        |           |
 | ----- | ------- | ------ | --------- |
 | **1** | Chauve | **6** | Longs |
-| **2** | Tressés | **7** | Luxuriants |
-| **3** | Bouclés | **8** | Grasse |
+| **2** | Tressés | **7** | Luxueux |
+| **3** | Bouclés | **8** | Gras |
 | **4** | Sales | **9** | Ondulés |
 | **5** | Crépus | **10** | Fins |
 
@@ -107,8 +107,8 @@ grand_parent: Second Edition
 | **1** | Franche | **6** | Rocailleuse |
 | **2** | Tonitruante | **7** | Précise |
 | **3** | Énigmatique | **8** | Grinçante |
-| **4** | Monotone | **9** | Bégaiement |
-| **5** | Formelle | **10** | Chuchotement |
+| **4** | Monotone | **9** | Bégayante |
+| **5** | Formelle | **10** | Chuchotante |
 
 ### Vêtements
 
