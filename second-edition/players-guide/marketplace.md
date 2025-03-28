@@ -18,7 +18,7 @@ grand_parent: Second Edition
 | Gambison (+1 Armure) | 15 |
 | Brigandine (1 Armure, _encombrant_) | 20 |
 | Cotte de mailles (2 Armure, _encombrant_) | 40 |
-| Plate (3 Armure, _encombrant_) | 60 |
+| Plates (3 Armure, _encombrant_) | 60 |
 
 ## Armes
 
@@ -27,9 +27,9 @@ grand_parent: Second Edition
 | Dague, Gourdin, Faucille, Bâton, etc. (d6 dégâts) | 5 |
 | Lance, épée, masse, hache, fléau, etc. (d8 dégâts) | 10 |
 | Hallebarde, Marteau de guerre, Épée longue, etc. (d10 dégâts, _encombrant_) | 20 |
-| Fronde (1d6 dégâts) | 5 |
+| Fronde (d6 dégâts) | 5 |
 | Arc (d6 dégâts, _encombrant_) | 20 |
-| Arbalète (1d8 dégâts, _encombrant_) | 30 |
+| Arbalète (d8 dégâts, _encombrant_) | 30 |
 
 ## Transport
 
@@ -112,7 +112,7 @@ grand_parent: Second Edition
 | Sédatif | 30 |
 | Kit de couture | 20 |
 | Instruments simples (cornemuse, luth, etc.) | 10 |
-| Pipe à fumer (_insignifiant_) | 15 |
+| Pipe (_insignifiant_) | 15 |
 | Outils spécialisés (encre, etc.) | 20 |
 | Bottes d'escalade | 15 |
 | Longue-vue | 40 |
