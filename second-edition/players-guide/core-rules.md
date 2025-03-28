@@ -102,7 +102,7 @@ Lors de son tour, un personnage peut se déplacer jusqu'à 12 m et entreprendre 
 
 ### Mort d'un personnage
 
-- Lorsqu'un personnage meurt, la joueureuse pourra créer un nouveau personnage ou prendre le contrôle d'un mercenaire. Le PJ rejoint immédiatement le groupe afin de réduire les temps morts.
+- Lorsqu'un personnage meurt, la joueur⋅euse pourra créer un nouveau personnage ou prendre le contrôle d'un mercenaire. Le PJ rejoint immédiatement le groupe afin de réduire les temps morts.
 
 ### Détachements
 
