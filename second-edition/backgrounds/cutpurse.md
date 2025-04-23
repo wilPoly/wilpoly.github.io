@@ -18,7 +18,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 - 3d6 pièces d'or
 - Rations (3 utilisations)
 - Torche (3 utilisations)
-- Poignards jumeaux (d6+d6, _encombrant_)
+- Dagues jumelles (d6+d6, _encombrant_)
 - Cuir matelassé (1 Armure)
 - Crochets
 - Tenue noire (_insignifiant_)
@@ -30,8 +30,8 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 | **1** | La maison d'été d'un noble. L'endroit était rempli de vin de luxe (+20 po) mais pas grand-chose d'autre. Prenez des **Pinces coupantes**. |
 | **2** | Une banque. (Vous avez été pris.) Vous portez une marque qui n'est visible qu'à la lumière du feu, et toute personne qui la voit peut vous demander une bière. Prenez des **Fils rétractables**. |
 | **3** | Un entrepôt de guilde. Prenez une **Échelle** (_encombrant_, 3 m) et de la **Poudre aveuglante** (1 utilisation). |
-| **4** | Usurier. Quelqu'un vous a devancé mais a laissé derrière lui un **Parchemin** de l'_Œil des Arcanes_ (_insignifiant_). _Œil des Arcanes_: Vous pouvez voir à travers un globe oculaire flottant et magique, volant aux alentours et à vos ordres. |
-| **5** | Quartier d'un brigadier. Vous vous êtes échappé mais avez laissé quelques amis derrière vous. Prenez une **Corde de soie solide** (9 m) et une sensation de nausée. |
+| **4** | Usurier. Quelqu'un vous a devancé mais a laissé derrière lui un **Parchemin** d'_Œil des Arcanes_ (_insignifiant_). _Œil des Arcanes_: Vous pouvez voir à travers un globe oculaire volant et magique, se déplaçant sous vos ordres. |
+| **5** | Quartiers d'un connétable. Vous vous êtes échappé mais avez laissé quelques amis derrière vous. Prenez une **Corde de soie solide** (9 m) et une sensation de nausée. |
 | **6** | Une université. Vous avez été vu mais pas poursuivi. Vous ne savez toujours pas pourquoi. Prenez des **Boules fumigènes** (3 utilisations). |
 
 ## Qu'est-ce qui vous aide à voler ? Lancez 1d6 :
