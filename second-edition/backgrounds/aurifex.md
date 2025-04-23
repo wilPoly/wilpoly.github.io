@@ -37,9 +37,9 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 |       |                    |                                                                                                                                                                                                                      |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Gel pyrophorique** | Un liquide vert gluant qui s'enflamme lorsqu'il est exposé à l'air. Dure 8 heures et ne peut être éteint. |
-| **2** | **Sphère d'explosion** | Une boule de fer de la taille d'une tête, remplie de poudre explosive qui explose à l'impact. d12, _explosion_, _encombrant_. |
-| **3** | **Aqua Vita** | Purifie n'importe quel liquide, le transformant en eau pure. En boire soigne 1d6 de FOR. 1 utilisation. |
+| **1** | **Gel pyrophorique** | Un liquide vert gluant qui s'enflamme lorsqu'il est exposé à l'air, puis brûle pendant 8 heures. Ne peut être éteint (1 utilisation). |
+| **2** | **Sphère d'explosion** | Une boule de fer de la taille d'une tête, remplie de poudre explosive qui explose à l'impact (d12, _explosion_, _encombrant_, 1 utilisation). |
+| **3** | **Aqua Vita** | Purifie n'importe quel liquide, le transformant en eau pure. En boire soigne 1d6 de FOR (1 utilisation). |
 | **4** | **Pierre mimétique** | Enregistre une courte phrase qui peut être repassée ultérieurement. |
-| **5** | **Poussière d'étincelle** | S'enflamme facilement et rapidement. Utile pour démarrer un feu ou comme dispositif incendiaire. 3 utilisations. |
+| **5** | **Poussière d'étincelle** | S'enflamme facilement et rapidement. Utile pour démarrer un feu ou comme dispositif incendiaire (3 utilisations). |
 | **6** | **Homuncule** | Une réplique miniature en argile de vous-même qui suit tous vos ordres. Il déteste vous être asservi et se plaint amèrement chaque fois qu'il le peut. Tous les dégâts infligés à l'homoncule vous sont également infligés. 3 PP, 4 FOR, 13 DEX, 5 VOL |
