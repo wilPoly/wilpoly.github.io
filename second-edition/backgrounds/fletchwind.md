@@ -19,17 +19,17 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - Rations (3 utilisations)
 - Torche (3 utilisations)
 - Arc (voir la table)
-- Couteau dentelé (d6)
+- Couteau cranté (d6)
 - Cuir bouilli (1 armure)
-- Pommade de cœur-racine (restaure 1d4 FOR, 1 utilisation)
+- Pommade de racine-cœur (restaure 1d4 FOR, 1 utilisation)
 
 ## Comment avez-vous gagné votre arc ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Guerre**. Si vous êtes le premier à attaquer, votre arc gagne la propriété _explosion_ pour le premier round. |
-| **2** | **Fauconnerie**. Vous gardez un faucon [3 PP, 5 FOR, 16 DEX, 4 VOL, griffes (d6+d6), morsure (d8)]. Il ne mange que du gibier vivant. |
-| **3** | **Chasse**. Lorsque vous entreprenez l'action Ravitailler, votre capacité à obtenir des **Rations** augmente d'**un cran** (par exemple, 1d4 devient 1d6). |
+| **2** | **Fauconnerie**. Vous élevez un faucon [3 PP, 5 FOR, 16 DEX, 4 VOL, griffes (d6+d6), morsure (d8)]. Il ne mange que du gibier vivant. |
+| **3** | **Chasse**. Lors de l'action Ravitailler, votre capacité à obtenir des **Rations** augmente d'**un cran** (par exemple, 1d4 devient 1d6). |
 | **4** | **Tournois**. Les attaques à l'arc sont _renforcées_ si la cible est immobile. |
 | **5** | **Entraînement**. Si vous êtes le premier à attaquer, les attaques au corps à corps contre vous sont _affaiblies_ jusqu'à ce que vous subissiez des dégâts de FOR. |
 | **6** | **Reconnaissance**. Lors de l'action Voyage, votre présence diminue les chances de se perdre d'un cran (par exemple, 4 sur 6 devient 3 sur 6). |
