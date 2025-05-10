@@ -23,7 +23,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 - Gants (_insignifiant_)
 - Marteau (d6)
 
-## Quel est votre métier ? Lancez 1d6 :
+## Quel est votre profession ? Lancez 1d6 :
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | **3** | Vous étiez fondeur militaire, avant que la paix ne détruise votre gagne-pain. Prenez un **marteau de forgeron** (d10, _encombrant_) et un **casque d'étain** (+1 Armure). Avec du temps et des matériaux adéquats, vous pouvez réparer des armures. |
 | **4** | Vous vendez des objets rares et de qualité aux monastères comme aux nobles. Prenez une **Longue-vue**, un **Collier** (_insignifiant_) d'une valeur de 20 po, et un **Parchemin** de [Traversée de miroir](/second-edition/players-guide/spellbooks) (_insignifiant_). |
 | **5** | Vous proposez des services de protection, guettant tranquillement les menaces pendant que de l'argent est échangé. Vous commencez avec **+d4 PP**, et portez une **Épée longue** (d10, _encombrant_) et un **Gambison** (+1 Armure). |
-| **6** | Vous fouillez les champs de bataille pour de l'étain et du fer bruts, arrachant les dents de cadavres encore agités. Commencez avec un jeune **Âne** (+4 emplacements, lent), une **Arbalète** (d8 dégâts, _encombrant_) et une **Scie** (d6). |
+| **6** | Vous fouillez les champs de bataille pour de l'étain et du fer bruts, arrachant les dents de cadavres s'agitant encore. Commencez avec un jeune **Âne** (+4 emplacements, lent), une **Arbalète** (d8 dégâts, _encombrant_) et une **Scie** (d6). |
 
 ## Qu'est-ce qui vous sort toujours du pétrin ? Lancez 1d6 :
 
@@ -41,8 +41,8 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | 1 | **Œufs de feu** | Six petites boulettes composées de sel marin, de bois et de poussière de faïence. Elles explosent à basse température (d8, _explosion_) mais les flammes se dissipent rapidement. |
 | 2 | **Goudron noir** | Polyvalent : à la fois collant et hautement inflammable. 3 utilisations. |
 | 3 | **Bottes d'escalade** | Brise les têtes (d8) aussi facilement que la glace et la boue. Vous voyagez plus lentement, mais plus facilement. |
-| 4 | **Pâte d'étameur** | Scelle toute ouverture de la taille d'un poing. 3 utilisations. |
-| 5 | **Feux d'artifice** | Un spectacle éblouissant mais dangereux. Suffisamment d'explosifs pour faire sauter un doigt ou trois. Il reste 2 utilisations. |
+| 4 | **Pâte de rétameur** | Scelle toute ouverture de la taille d'un poing. 3 utilisations. |
+| 5 | **Feux d'artifice** | Un spectacle éblouissant quoique dangereux. Suffisamment d'explosifs pour faire sauter un doigt ou trois. Il reste 2 utilisations. |
 | 6 | **Chat charognard** | Un animal de compagnie intelligent, assez petit pour se cacher dans votre sac (_encombrant_), mais assez fort pour effrayer les petits prédateurs. A besoin d'une **Ration** par jour, et il doit s'agir de viande. |
 |     |                    |                                                                                                                                                                  |
 
