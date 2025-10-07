@@ -37,7 +37,7 @@ grand_parent: Second Edition
 
 ## Attributs
 
-- Les personnages joueurs n'ont que trois Attributs : (**Force (FOR)**, **Dextérité (DEX)** et **Volonté (VOL)**).
+- Les personnages joueurs (PJs) n'ont que trois Attributs : **Force (FOR)**, **Dextérité (DEX)** et **Volonté (VOL)**.
 - Lancez 3d6 pour chacun des **Attributs** de votre personnage, dans l'ordre. Vous pouvez ensuite échanger deux des résultats.
 - Les Attributs ne sont pas des épithètes universels. Un personnage ayant une faible FOR n'est pas obligatoirement désespérément faible ; il peut encore tenter de soulever une lourde porte ou survivre à un combat mortel ! Le risque est simplement plus élevé.
 
