@@ -73,52 +73,52 @@ grand_parent: Second Edition
 
 ## Équipement
 
-|                                                    |     |
-| -------------------------------------------------- | --- |
-| Chambre à air | 5 |
-| Antitoxine | 20 |
-| Bandages (3 utilisations) | 30 |
-| Produits de bain (savon, parfum, etc.) | 5 |
-| Livre | 50 |
-| Chausse-trapes | 10 |
-| Jeu de cartes | 5 |
-| Chaîne (3 m) | 10 |
-| Craie (_insignifiant_) | 1 |
-| Coffre | 25 |
-| Burin | 5 |
-| Substances courantes (colle, graisse, etc.) | 10 |
-| Outils courants (marteau, pelle, etc.) | 10 |
-| Boussole | 75 |
-| Instruments complexes (cornemuse, violon, etc.) | 50 |
-| Contenants (sac, gourde, etc.) | 10 |
-| Matériel de cuisine (casseroles, ustensiles, etc.) | 10 |
-| Costumes (maquillage, déguisement) | 15 |
-| Baguette de sourcier | 15 |
-| Matériel d'expédition (crampons d'escalade, poulie, etc.) | 10 |
-| Huile de feu | 10 |
-| Canne à pêche | 10 |
-| Jeux (cartes, dés, etc.) | 10 |
-| Gants (_insignifiant_) | 20 |
-| Grappin | 25 |
-| Lanterne | 10 |
-| Miroir | 5 |
-| Filet | 10 |
-| Bidon d'huile (6 utilisations) | 10 |
-| Confort extérieur (couverture, hamac, etc.) | 10 |
-| Parchemin (3 utilisations) | 10 |
-| Perche (3 m) | 5 |
-| Répulsif (aconit, armoise, etc.) | 10 |
-| Corde (7,5 m) | 5 |
-| Sédatif | 30 |
-| Kit de couture | 20 |
-| Instruments simples (cornemuse, luth, etc.) | 10 |
-| Pipe (_insignifiant_) | 15 |
-| Outils spécialisés (encre, etc.) | 20 |
-| Bottes d'escalade | 15 |
-| Longue-vue | 40 |
-| Tente (pour 2 personnes, _encombrant_) | 20 |
-| Outils de voleur (crochet, lime en métal, etc.) | 25 |
-| Torche (3 utilisations) | 5 |
-| Piège (d6 dégâts de FOR) | 35 |
-| Sifflet (_insignifiant_) | 15 |
-| Vêtements pour les contrées sauvages (poncho, cape, etc.) (_insignifiant_) | 15 |
+|                                                                          |    |
+|--------------------------------------------------------------------------|----|
+| Antitoxine                                                               | 20 |
+| Baguette de sourcier                                                     | 15 |
+| Bandages (3 utilisations)                                                | 30 |
+| Bidon d'huile (6 utilisations)                                           | 10 |
+| Bottes d'escalade                                                        | 15 |
+| Boussole                                                                 | 75 |
+| Burin                                                                    | 5  |
+| Canne à pêche                                                            | 10 |
+| Chaîne (3 m)                                                             | 10 |
+| Chambre à air                                                            | 5  |
+| Chausse-trapes                                                           | 10 |
+| Coffre                                                                   | 25 |
+| Confort extérieur (couverture, hamac, etc.)                              | 10 |
+| Contenants (sac, gourde, etc.)                                           | 10 |
+| Corde (7,5 m)                                                            | 5  |
+| Costumes (maquillage, déguisement)                                       | 15 |
+| Craie (insignifiant)                                                     | 1  |
+| Filet                                                                    | 10 |
+| Gants (insignifiant)                                                     | 20 |
+| Grappin                                                                  | 25 |
+| Huile de feu                                                             | 10 |
+| Instruments complexes (cornemuse, violon, etc.)                          | 50 |
+| Instruments simples (cornemuse, luth, etc.)                              | 10 |
+| Jeu de cartes                                                            | 5  |
+| Jeux (cartes, dés, etc.)                                                 | 10 |
+| Kit de couture                                                           | 20 |
+| Lanterne                                                                 | 10 |
+| Livre                                                                    | 50 |
+| Longue-vue                                                               | 40 |
+| Matériel d'expédition (crampons d'escalade, poulie, etc.)                | 10 |
+| Matériel de cuisine (casseroles, ustensiles, etc.)                       | 10 |
+| Miroir                                                                   | 5  |
+| Outils courants (marteau, pelle, etc.)                                   | 10 |
+| Outils de voleur (crochet, lime en métal, etc.)                          | 25 |
+| Outils spécialisés (encre, etc.)                                         | 20 |
+| Parchemin (3 utilisations)                                               | 10 |
+| Perche (3 m)                                                             | 5  |
+| Piège (d6 dégâts de FOR)                                                 | 35 |
+| Pipe (insignifiant)                                                      | 15 |
+| Produits de bain (savon, parfum, etc.)                                   | 5  |
+| Répulsif (aconit, armoise, etc.)                                         | 10 |
+| Sédatif                                                                  | 30 |
+| Sifflet (insignifiant)                                                   | 15 |
+| Substances courantes (colle, graisse, etc.)                              | 10 |
+| Tente (pour 2 personnes, encombrant)                                     | 20 |
+| Torche (3 utilisations)                                                  | 5  |
+| Vêtements pour les contrées sauvages (poncho, cape, etc.) (insignifiant) | 15 |
