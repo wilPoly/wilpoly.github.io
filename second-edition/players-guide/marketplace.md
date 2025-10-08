@@ -55,20 +55,20 @@ grand_parent: Second Edition
 
 ## Mercenaires (par jour)
 
-|                   |     |
-| ----------------- | --- |
-| Alchimiste | 30 |
-| Dresseur | 5 |
-| Forgeron | 15 |
-| Garde du corps | 10 |
-| Guide local | 5 |
-| Crocheteur | 10 |
-| Navigateur | 10 |
-| Marin | 5 |
-| Érudit | 20 |
-| Pisteur | 5 |
-| Trappeur | 5 |
+|                        |    |
+| ---------------------- | -- |
+| Alchimiste             | 30 |
+| Crocheteur             | 10 |
+| Dresseur               | 5  |
+| Érudit                 | 20 |
+| Forgeron               | 15 |
+| Garde du corps         | 10 |
 | Garde du corps vétéran | 20 |
+| Guide local            | 5  |
+| Marin                  | 5  |
+| Navigateur             | 10 |
+| Pisteur                | 5  |
+| Trappeur               | 5  |
 
 
 ## Équipement
