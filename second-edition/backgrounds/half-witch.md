@@ -32,7 +32,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 | **3** | Un **Cauchemar vivant** qui vit en vous mais se manifeste dès que vous êtes en danger. Il possède les mêmes **Caractéristiques** et **PP** que vous et attaque avec des griffes (d8+d8). Il disparaît en cas de **Dégâts critiques** (1d4 points de dégâts VOL) et réapparaît à la pleine lune suivante. |
 | **4** | Un **Familier Corbeau** [8 PP, 3 FOR, 11 DEX, 13 VOL, bec, (d6)]. Il s'exprime comme un être intelligent et vous est entièrement dévoué. |
 | **5** | Une **Épine de bruyère**. Elle peut percer n'importe quelle matière organique (très douloureusement) mais, une fois retirée, ne laisse aucune trace de l'intrusion. |
-| **6** | Le **Vrai nom** d'une Fée. Utilisez-le pour convoquer son propriétaire en vue d'un grand service, mais une seule fois. On pourrait aussi en tirer une jolie si on trouve le bon acquéreur. |
+| **6** | Le **Vrai nom** d'une Fée. Utilisez-le pour convoquer son propriétaire en vue d'un grand service, mais une seule fois. On pourrait aussi en tirer une jolie somme si on trouve le bon acquéreur. |
 
 ## Quelle concoction transportez-vous, et quels ingrédients rares avez-vous réunis pour la fabriquer ? Lancez 1d6 :
 
